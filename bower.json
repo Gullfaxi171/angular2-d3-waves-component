@@ -1,0 +1,18 @@
+{
+  "name": "tests-angular2",
+  "version": "0.0.0",
+  "authors": [
+    "Florent Gros <florent.gros@gadz.org>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
